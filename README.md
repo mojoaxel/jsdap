@@ -1,5 +1,7 @@
 # jsdap
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mojoaxel/jsdap.svg)](https://greenkeeper.io/)
+
 A JavaScript [OPeNDAP](http://www.opendap.org/) client.
 
 ## Installation
